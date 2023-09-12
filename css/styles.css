@@ -54,3 +54,17 @@ span {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+
+.site-name .service-button {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.site-name .service-button:hover,
+.site-name .service-button:focus {
+  background-color: #404bbf;
+}

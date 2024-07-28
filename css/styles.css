@@ -44,10 +44,6 @@ a {
 .header_nav_menu_link:focus {
   color: #404bbf;
 }
-.header_nav_menu_link_studio:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
 .header_address {
 }
 .header_address_menu {
@@ -56,7 +52,6 @@ a {
 }
 .header_address_menu_link {
   font-family: 'Roboto', sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -89,6 +84,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .hero_button:hover {
   background-color: #404bbf;
@@ -200,7 +196,6 @@ a {
 }
 .footer_text {
   font-family: 'Roboto', sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;

@@ -47,6 +47,7 @@ a {
   color: #404bbf;
 }
 .header_address {
+  font-style: normal;
 }
 .header_address_menu {
 }
@@ -58,7 +59,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 .header_address_menu_link:hover,
 .header_address_menu_link:focus {
